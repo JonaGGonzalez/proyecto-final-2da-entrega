@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+
+.header {
+    background-color: beige;
+}
+
+.header a{
+    font-size: larger;
+}
+
+header a:hover {
+    font-weight: bold;
+  }
+
+.color-nav{
+background-color: rgba(244, 211, 171, 0.945);
+}
+
+.carousel-item img{
+    max-height: 70vh;
+
+  
+}
+
+
+.main {
+    min-height:100% ;
+    background-color: bisque;
+}
+
+
+.card{
+    background-color: antiquewhite  
+
+}
+
+.card:hover{
+    transform: translateY(-3%);
+}
+
+
+.color-boton {
+    color: white;
+    background-color: black;
+}
+
+.color-submit{
+    background-color: black;
+    color: white;
+}
+
+.color-nosotros{
+    background-color: black;
+    color: white;
+}
+
+
+
+.footer {
+    margin-top: auto;
+    margin-bottom: 3vh;
+}
+
+.fa-facebook{
+    font-size: 3rem;
+}
+
+.fa-square-instagram{
+    font-size: 3rem;
+}
+
+.fa-square-twitter{
+    font-size: 3rem;
+}
+
+.fa-whatsapp{
+    font-size: 3rem;
+    color: rgb(22, 187, 7);
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
+
