@@ -10,7 +10,7 @@
     min-height: 100vh;
     background-color: bisque;
 }
-
+/* estilo titulo */
 h1 {
     font-size: 3rem;
 }
@@ -58,16 +58,6 @@ background-color: rgba(244, 211, 171, 0.945);
 .color-boton {
     color: white;
     background-color: black;
-}
-
-.color-submit{
-    background-color: black;
-    color: white;
-}
-
-.color-nosotros{
-    background-color: black;
-    color: white;
 }
 
 
