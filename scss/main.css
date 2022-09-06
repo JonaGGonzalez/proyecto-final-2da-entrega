@@ -2,7 +2,7 @@
   background-color: antiquewhite;
 }
 
-.card:hover{
+.card:hover {
   transform: translateY(-3%);
 }
 
@@ -38,22 +38,12 @@
   font-size: larger;
 }
 
-.active{
+header a:hover {
   font-weight: bold;
-}
-.nav-link:hover {
-  transition: .7s;
-  scale: 1.2;  
 }
 
 .color-nav {
   background-color: rgba(244, 211, 171, 0.945);
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 .body {
@@ -72,16 +62,14 @@ h1 {
   background-color: bisque;
 }
 
-.color-boton {
-  color: white;
-  background-color: black;
-}
-
-
 .footer {
   margin-top: auto;
   margin-bottom: 3vh;
   background-color: rgba(244, 211, 171, 0.945);
 }
 
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}/*# sourceMappingURL=main.css.map */
