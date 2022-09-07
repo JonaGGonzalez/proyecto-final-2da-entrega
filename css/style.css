@@ -77,6 +77,10 @@ h1 {
   background-color: black;
 }
 
+.form-control{
+  background-color: antiquewhite;
+}
+
 
 .footer {
   margin-top: auto;
